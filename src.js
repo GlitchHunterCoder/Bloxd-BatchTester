@@ -1,14 +1,18 @@
 globalThis.vars={}
 globalThis.methods=[ //hi
-  /*
   [
-    (()=>{}),
-    (()=>{}),
-    (()=>{})
+    (()=>{
+      console.log("test1")
+    }),
+    (()=>{
+      console.log("test2")
+    }),
+    (()=>{
+      console.log("test3")
+    })
     //each function is ran in order
   ]
   //put test method as array of functions
-  */
 ]
 
 
