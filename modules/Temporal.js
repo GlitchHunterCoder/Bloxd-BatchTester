@@ -1,4 +1,4 @@
-[ //temporal count
+[
     (()=>{
       globalThis.temporal_unit=0
       while(true){}
