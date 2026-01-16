@@ -1,12 +1,3 @@
-let Test = {
-  get Base(){
-    
-  }
-  set Base(value){
-    
-  }
-}
-
 globalThis.vars={}
 globalThis.methods=[
   [
